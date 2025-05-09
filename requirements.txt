@@ -1,0 +1,12 @@
+pandas
+mlflow
+ipykernel
+numpy
+scikit-learn
+matplotlib
+python-box
+tqdm
+ensure
+joblib
+fastapi[standard]
+dvc
